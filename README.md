@@ -28,6 +28,7 @@ I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: In my free time, I solve problems on hackerrank/leetcode and read books or watch Youtube.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aishwary-vishwakarma-b613601b3/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,6 +40,7 @@ I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
