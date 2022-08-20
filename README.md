@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me : 
 I am a front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  - :telescope: I’m currently doing my Enginnering and contributing to frontend and backend for building web applications.
+  - :telescope: I’m currently doing my Enginnering and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
