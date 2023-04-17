@@ -20,12 +20,12 @@
 ---
 
 ### :woman_technologist: About Me : 
-I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an aspiringFull-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - :telescope: I’m currently doing my Enginnering and learning new Web development concepts.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on hackerrank/leetcode and read books or watch Youtube.
+- :zap: Looking forward to contribute to some open source projects.
 
 - :mailbox:How to reach me: [LinkedIn](https://www.linkedin.com/in/aishwary-vishwakarma-b613601b3/)
 
