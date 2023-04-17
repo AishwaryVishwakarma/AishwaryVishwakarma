@@ -20,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me : 
-I am an aspiringFull-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - :telescope: I’m currently doing my Enginnering and learning new Web development concepts.
 
 - :seedling: Exploring Technical Content Writing.
